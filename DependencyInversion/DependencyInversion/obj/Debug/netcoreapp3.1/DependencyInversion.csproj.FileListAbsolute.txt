@@ -1,0 +1,13 @@
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.exe
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.deps.json
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.runtimeconfig.json
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.runtimeconfig.dev.json
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.dll
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.pdb
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.csprojAssemblyReference.cache
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.AssemblyInfoInputs.cache
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.AssemblyInfo.cs
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.csproj.CoreCompileInputs.cache
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.dll
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.pdb
+D:\Flutter\DependencyInversion\DependencyInversion\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.genruntimeconfig.cache
